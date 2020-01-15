@@ -1,20 +1,18 @@
 # Site settings
-name: Edwin E. Exemplar
-email: edwin+contactme@someemail.com
-#canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
-skills: "Senior Software Engineer in Seattle, WA (Fictitious)"
+name: Paul Osunbor
+email:infinitynemesis5@gmail.com
+#canonical_url: https:// WordPress.infinitysconcept.com
+keywords: "Web Developer, React, Angular, Bootstrap, Flexbox, JavaScript"
+skills: Web Developer, WordPress developer
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
-  - title: linkedin
-    url: https://www.linkedin.com/in/cgroom/
-  - title: medium
-    url: https://medium.com/@cgroom
+  - title: LinkedIn
+    url: https://www.linkedin.com/Paul/Osunbor
   - title: twitter
-    url: https://twitter.com/chuck_groom
+    url: https://twitter.com/Paul_Osunbor
     
 # Google webmaster tools
 google_verify:
